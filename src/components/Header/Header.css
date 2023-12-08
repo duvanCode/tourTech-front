@@ -1,0 +1,21 @@
+.contenedor-modo{
+    height: 26px;
+}
+.dia{
+    background: #ffffff;
+}
+.noche{
+    background: #948388;
+}
+.imagen-perfil{
+    border-radius: 2rem;
+    width: 30px;
+    height: 30px;
+}
+.bg-dark-custom{
+    background: #3b3546;
+}
+.c-ligth-custom{
+    color: #ffffff;
+
+}
